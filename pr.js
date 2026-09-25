@@ -142,7 +142,7 @@ announcementButton.addEventListener(
     function () {
 
         announcement.textContent =
-            "🎮 Registration is now open! Form your team of five players, prepare your strategy, and get ready to compete in the Mobile Legends: Bang Bang Online Tournament! 🏆";
+            "Registration is now open! Form your team of five players, prepare your strategy, and get ready to compete in the Mobile Legends: Bang Bang Online Tournament!";
 
         announcementButton.textContent =
             "Announcement Displayed!";
